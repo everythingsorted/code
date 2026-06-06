@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I'm passionate about coding and development.
 ## Projects
 - [My HTML Project](./index.html) - Click to view my project
 
-
+https://everythingsorted.github.io/code/
 ---
 
 Feel free to explore my repositories!
