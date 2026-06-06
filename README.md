@@ -1,4 +1,4 @@
-# Hello, I'm Everything Sorted! 👋
+# Hello, I'm Abinash! 👋
 
 Welcome to my GitHub profile. I'm passionate about coding and development.
 
